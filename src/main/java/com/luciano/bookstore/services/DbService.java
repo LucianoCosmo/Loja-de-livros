@@ -21,7 +21,7 @@ public class DbService {
 		
 		Category cat01 = new Category(null, "Informática", "Livros de Tecnologia da Informação");
 		Category cat02 = new Category(null, "Ficção Científica", "Livros de ficção científica");
-		Category cat03 = new Category(null, "Biograficas", "Livros de biografias");
+		Category cat03 = new Category(null, "Biografias", "Livros biograficos");
 
 		Book bk01 = new Book(null, "Clean Code", "Robert Martin", "Lorem Ipsum", cat01);
 		Book bk02 = new Book(null, "Engenharia de Software", "Louis V", "Lorem Ipsum", cat01);
